@@ -123,4 +123,4 @@ tree1 = RedBlackTree()
 tree1.input_node(4)
 tree1.input_node(5)
 tree1.input_node(1)
-tree1.input_node(2)
+
